@@ -1,3 +1,3 @@
-redis:
-   host: 192.168.145.128
-   port: 6666
+spring:
+  redis:
+    port: 2345
